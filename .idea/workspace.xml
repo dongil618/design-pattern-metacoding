@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfdd2e65-8f4c-45d1-bbde-c1face26ad7b" name="Changes" comment="디자인패턴 2강 전략패턴">
-      <change afterPath="$PROJECT_DIR$/src/proxy/DoorManProxy.java" afterDir="false" />
+    <list default="true" id="cfdd2e65-8f4c-45d1-bbde-c1face26ad7b" name="Changes" comment="디자인패턴 3강 프록시패턴&#10;&#10;- 상속을 통해 프록시 패턴 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/DoorMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/DoorMan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/DoorManProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/DoorManProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675423188112</updated>
-      <workItem from="1675423189150" duration="6247000" />
+      <workItem from="1675423189150" duration="6352000" />
     </task>
     <task id="LOCAL-00001" summary="디자인패턴 2강 전략패턴">
       <created>1675427159707</created>
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675427159708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="디자인패턴 3강 프록시패턴&#10;&#10;- 상속을 통해 프록시 패턴 구현">
+      <created>1675429964579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675429964579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="디자인패턴 2강 전략패턴" />
-    <option name="LAST_COMMIT_MESSAGE" value="디자인패턴 2강 전략패턴" />
+    <MESSAGE value="디자인패턴 3강 프록시패턴&#10;&#10;- 상속을 통해 프록시 패턴 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="디자인패턴 3강 프록시패턴&#10;&#10;- 상속을 통해 프록시 패턴 구현" />
   </component>
 </project>
